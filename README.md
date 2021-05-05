@@ -5,9 +5,8 @@
 
 # About me 
 + I'm a freshman in ZheJiang University,China,majoring in information security.
-+ Also,I'm trying hard to pass the selection of ACEE.Wish me luck.
++ Also,I join in the Advanced Honor Class of Engineering Education(ACEE) in CKC Honor College in ZJU.
 
-## My Blog 1
 
 
 
